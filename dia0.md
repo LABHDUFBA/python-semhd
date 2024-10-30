@@ -60,7 +60,15 @@ Para abrir o terminal no macOS, basta pressionar as teclas `Command + Espaço` e
 
 #### E no Windows?
 
-- Instalar GitBash
+Duas opções: usar o app Terminal do Windows, ou instalar o GitBash.
+
+##### Usando o app Terminal do Windows
+
+O app Terminal do Windows é uma ferramenta poderosa e que vem sendo aprimorada a cada versão do Windows 10. Para abri-lo, basta buscar por `terminal` no menu de aplicativos.
+
+##### Instalando o GitBash
+
+O GitBash é uma ferramenta que traz um terminal mais poderoso e com mais funcionalidades que o app Terminal do Windows. Além disso ele é compatível com os comandos do terminal do macOS e Linux, e é instalado junto com o Git. Git é uma ferramenta de controle de versão de código fonte. Para saber mais sobre o Git, ver a [lição do Programming Historian, Git como ferramenta metodológica em projetos de História (parte 1)](https://programminghistorian.org/pt/licoes/git-ferramenta-metodologica-projetos-historia-1).
 
 Veja o vídeo de instalação, também [disponível no YouTube](https://youtu.be/PGIuYvkctj0):
 
@@ -68,7 +76,7 @@ https://github.com/ericbrasiln/python-puc/assets/58128421/de51310c-c074-49e0-9b2
 
 Com ele poderemos usar os mesmos comandos do terminal do macOS e Linux.
 
-##### Executando o python no GitBash
+###### Executando o python no GitBash
 
 Para executarmos o python no GitBash precisamos executar mais um comando. Ele incluirá um alias (apelido) na configuração do bash para que todas vez que executarmos `python`, o GitBash execute o executável correto:
 
